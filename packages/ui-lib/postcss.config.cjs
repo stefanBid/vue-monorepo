@@ -1,0 +1,1 @@
+module.exports = require("@vue-monorepo/tailwind-config/postcss.config.cjs");

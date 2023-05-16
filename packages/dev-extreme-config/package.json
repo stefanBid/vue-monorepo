@@ -1,0 +1,9 @@
+{
+    "name": "@vue-monorepo/dev-extreme-config",
+    "private": true,
+    "version": "1.0.0",
+    "dependencies": {
+        "devextreme": "22.2",
+        "devextreme-vue": "22.2"
+    }
+}

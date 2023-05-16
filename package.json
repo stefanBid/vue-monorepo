@@ -1,0 +1,19 @@
+{
+  "name": "vue-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "user-app": "pnpm --filter @vue-monorepo/manage-user-app",
+    "lib": "pnpm --filter @vue-monorepo/ui-lib",
+    "dev": "pnpm --recursive --parallel --stream run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "typescript": "^5.0.4",
+    "vue-router": "4"
+  }
+}
