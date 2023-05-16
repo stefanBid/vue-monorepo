@@ -2,7 +2,7 @@
 
 >**🤖 _INFO:_** La versione 1.0 contiene una monorepo stabile configurata per contenere al suo interno un numero di progetti Vue pari a **1**.<br>
 Nel **branch** `master` (quello da clonare) si trova la versione stabile della monorepo, mentre nel **branch** `develop` si trova la monorepo in fase di sviluppo per il successivo rilascio di nuove versioni.
-<br>
+
 <br>
 La consultazione di questa repository è consigliata a chi vuole prendere familiarità con:
 <br>
